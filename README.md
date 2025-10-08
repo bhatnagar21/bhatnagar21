@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shreya-bhatnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya-bhatnagar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shreya bhatnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya bhatnagar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shreyu21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyu21" height="30" width="40" /></a>
 </p>
 
@@ -25,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhatnagar21&show_icons=true&locale=en" alt="bhatnagar21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhatnagar21&" alt="bhatnagar21" /></p>
-
